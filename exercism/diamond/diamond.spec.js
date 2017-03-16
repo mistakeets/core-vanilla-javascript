@@ -10,23 +10,25 @@ describe('Diamond', function() {
 
   it('test letter C', function() {
     result = ["  A  ",
-              " B B ",
-              "C   C",
-              " B B ",
-              "  A  "].join("\n") + "\n";
+      " B B ",
+      "C   C",
+      " B B ",
+      "  A  "
+    ].join("\n") + "\n";
     expect(diamond.makeDiamond('C')).toEqual(result);
   });
 
   it('test letter E', function() {
     result = ["    A    ",
-              "   B B   ",
-              "  C   C  ",
-              " D     D ",
-              "E       E",
-              " D     D ",
-              "  C   C  ",
-              "   B B   ",
-              "    A    "].join("\n") + "\n";
+      "   B B   ",
+      "  C   C  ",
+      " D     D ",
+      "E       E",
+      " D     D ",
+      "  C   C  ",
+      "   B B   ",
+      "    A    "
+    ].join("\n") + "\n";
     expect(diamond.makeDiamond('E')).toEqual(result);
   });
 });

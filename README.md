@@ -13,11 +13,11 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 ### Day 1 - Exercism
 
-- [ ] Solve `/exercism/hamming`
-- [ ] Solve `/exercism/diamond`
-- [ ] Solve `/exercism/bracket-push`
+- [x] Solve `/exercism/hamming`
+- [x] Solve `/exercism/diamond`
+- [x] Solve `/exercism/bracket-push`
 - [ ] Solve `/exercism/ocr-numbers`
-- [ ] Solve `/exercism/bowling`
+- [x] Solve `/exercism/bowling`
 
 #### Stretch
 
@@ -28,12 +28,12 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 ### Day 2 - Exercism
 
-- [ ] Solve `/exercism/secret-handshake`
-- [ ] Solve `/exercism/wordy`
-- [ ] Solve `/exercism/largest-series-product`
+- [x] Solve `/exercism/secret-handshake`
+- [x] Solve `/exercism/wordy`
+- [x] Solve `/exercism/largest-series-product`
 - [ ] Solve `/exercism/robot-simulator`
-- [ ] Solve `/exercism/rna-transcription`
-- [ ] Solve `/exercism/bob`
+- [x] Solve `/exercism/rna-transcription`
+- [x] Solve `/exercism/bob`
 
 
 #### Stretch
